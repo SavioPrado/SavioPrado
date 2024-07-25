@@ -6,7 +6,7 @@
 
 
 ### Main skills: 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp; ![Intersystems](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp; ![Systems Analyst](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp; ![Intersystems](https://img.shields.io/badge/-Intersystems-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp; ![Systems Analyst](https://img.shields.io/badge/-Systems Analyst-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
 
 
